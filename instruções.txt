@@ -1,0 +1,13 @@
+Primeira vez baixando os arquivos do server:
+
+1. Apague ou renomeie a pasta .minecraft
+2. Edite no arquivo caminho.txt o caminho da sua pasta .minecraft
+3. Clique em baixar
+
+Baixando atualizações:
+
+1. Clique em atualizar
+
+Sobre o arquivo link.txt:
+
+O arquivo link.txt se refere ao repositório git do github que será usado.
