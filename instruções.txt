@@ -1,13 +1,23 @@
+INSTRUÇÕES DE INSTALAÇÃO
+========================
+
 Primeira vez baixando os arquivos do server:
 
 1. Apague ou renomeie a pasta .minecraft
 2. Edite no arquivo caminho.txt o caminho da sua pasta .minecraft
-3. Clique em baixar
+3. Clique em baixar.bat
+
+INSTRUÇÕES DE ATUALIZAÇÃO
+=========================
 
 Baixando atualizações:
 
-1. Clique em atualizar
+1. Clique em atualizar_script.bat, para garantir que o último script está sendo usado
+2. Clique em atualizar.bat
 
-Sobre o arquivo link.txt:
+TROUBLESHOOTING
+===============
 
-O arquivo link.txt se refere ao repositório git do github que será usado.
+* Caso o jogo não abra, tente instalar a versão 2847 do Forge através deste link: http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html
+* Caso o download não aconteça, procure o Mephit ou o Kano imediatamente para te ajudar, ou pule para a atualização manual.
+* Caso você tenha deletado sem querer alguma pasta do Minecraft, utilize o deumerda.bat para restaurar à versão anterior.
